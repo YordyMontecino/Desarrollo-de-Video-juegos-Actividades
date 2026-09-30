@@ -1,0 +1,28 @@
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/bin/Debug/net10.0/EjPoo
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/bin/Debug/net10.0/EjPoo.deps.json
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/bin/Debug/net10.0/EjPoo.runtimeconfig.json
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/bin/Debug/net10.0/EjPoo.dll
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/bin/Debug/net10.0/EjPoo.pdb
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/obj/Debug/net10.0/EjPoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/obj/Debug/net10.0/EjPoo.AssemblyInfoInputs.cache
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/obj/Debug/net10.0/EjPoo.AssemblyInfo.cs
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/obj/Debug/net10.0/EjPoo.csproj.CoreCompileInputs.cache
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/obj/Debug/net10.0/EjPoo.dll
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/obj/Debug/net10.0/refint/EjPoo.dll
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/obj/Debug/net10.0/EjPoo.pdb
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/obj/Debug/net10.0/EjPoo.genruntimeconfig.cache
+/Users/larriagada/Downloads/Clases/2026-2/VJ N4-FB5-C1/EjPoo/obj/Debug/net10.0/ref/EjPoo.dll
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\bin\Debug\net10.0\EjPoo.exe
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\bin\Debug\net10.0\EjPoo.deps.json
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\bin\Debug\net10.0\EjPoo.runtimeconfig.json
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\bin\Debug\net10.0\EjPoo.dll
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\bin\Debug\net10.0\EjPoo.pdb
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\obj\Debug\net10.0\EjPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\obj\Debug\net10.0\EjPoo.AssemblyInfoInputs.cache
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\obj\Debug\net10.0\EjPoo.AssemblyInfo.cs
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\obj\Debug\net10.0\EjPoo.csproj.CoreCompileInputs.cache
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\obj\Debug\net10.0\EjPoo.dll
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\obj\Debug\net10.0\refint\EjPoo.dll
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\obj\Debug\net10.0\EjPoo.pdb
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\obj\Debug\net10.0\EjPoo.genruntimeconfig.cache
+C:\Users\yordy\Desktop\Desarrollo de Video Juegos\Actividad POO\Ejemplo-POO-C-Juego-main\obj\Debug\net10.0\ref\EjPoo.dll
